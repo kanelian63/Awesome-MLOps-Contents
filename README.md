@@ -13,6 +13,7 @@
 
 
 ### Basic
+- Mercari의 [머신러닝 시스템 디자인 패턴(번역본)](https://mercari.github.io/ml-system-design-pattern/README_ko.html)
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)(Eng)
 	- 구글의 머신러닝 엔지니어링 가이드 글로, 모델을 적용하는 과정에 대해 잘 나와있음
 	- 번역 글 : [Rules of Machine Learning: Best Practices for ML Engineering 정리](https://zzsza.github.io/data/2019/12/15/rules-of-ml/)(Kor)
@@ -29,8 +30,7 @@
 	- Full Stack Deep Learning Bootcamp을 기반으로 추가적인 자료를 모아둔 Repo
 - [Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/)(Eng)
 	- UC Berkeley 수업 자료로 동영상은 없지만 자료만 봐도 유익
-- [Machine Learning Systems Design
-](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)(Eng)
+- [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)(Eng)
 
 <br />
 
