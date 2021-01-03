@@ -96,11 +96,24 @@
 
 
 ### Kubeflow
+- [MLOps on GCP](https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/workshops/kfp-caip-sklearn)
 - [End to End Pipeline : KubeFlow +Keras/TensorFlow2 +TF Extended (TFX) +Kubernetes +PyTorch +XGBoost +Airflow +MLflow +Spark](https://www.youtube.com/watch?v=OhIa2cnGD8Y)(Eng) : 6시간 실습 영상
 	- [슬라이드 자료](https://www.slideshare.net/cfregly/handson-learning-with-kubeflow-kerastensorflow-20-tf-extended-tfx-kubernetes-pytorch-xgboost-airflow-mlflow-spark-jupyter-tpu)
 - [Kubeflow 소개와 활용법](https://youtu.be/szygR7G3ZY8)(Kor) : 두다지에서 어떻게 활용하고 있는지 발표해주신 자료
 - [Kubeflow Handson Kubeflow](https://www.youtube.com/watch?v=cFXplM3IdyI) : 핸즈온 실습 영상 
 - [딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a)(Kor) : 당근마켓에서 Kubeflow pipeline을 활용한 사례 글
+
+
+<br />
+
+---
+
+<br />
+
+### Apache Airflow
+- [Data Pipelines with Apache Airflow 원서](https://www.manning.com/books/data-pipelines-with-apache-airflow)
+- [Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor)](https://tv.naver.com/v/16969998)
+- [Airflow Summit 2020](https://airflowsummit.org/)
 
 <br />
 
@@ -109,8 +122,8 @@
 <br />
 
 
-
-### Conference Review
+### Conference
+- [Airflow Summit 2020](https://airflowsummit.org/)
 - [MLOps NYC19 Conference 정리](https://zzsza.github.io/mlops/2019/10/27/mlops-nyc19-review/)(Kor)
 
 
